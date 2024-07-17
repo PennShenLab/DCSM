@@ -1,4 +1,4 @@
-# Deep Clustering Survival Machines with Interpretable Expert Distributions
+# Deep Clustering Survival Machines (DCSM)
 
 This repository holds the official code for the paper 
 
