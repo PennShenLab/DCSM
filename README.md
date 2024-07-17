@@ -3,6 +3,8 @@
 This repository holds the official code for the paper 
 "[*Deep Clustering Survival Machines with Interpretable Expert Distributions*](https://arxiv.org/abs/2301.11826)", 
  published in [ISBI 2023](http://2023.biomedicalimaging.org/en/).  
+ and the paper "[*Interpretable Deep Clustering Survival Machines for Alzheimer’s Disease Subtype Discovery*](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001567)",
+ published in [Medical Image Analysis](https://www-sciencedirect-com.proxy.library.upenn.edu/journal/medical-image-analysis)
 
 
 ### 🦸‍♀ Motivation
