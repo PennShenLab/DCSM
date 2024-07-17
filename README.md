@@ -138,4 +138,13 @@ in **Proceedings of the ACM Conference on Health, Inference, and Learning**,
   booktitle={International Symposium on Biomedical Imaging},
   year={2023},
 }
+
+@article{hou2024interpretable,
+  title={Interpretable deep clustering survival machines for Alzheimer’s disease subtype discovery},
+  author={Hou, Bojian and Wen, Zixuan and Bao, Jingxuan and Zhang, Richard and Tong, Boning and Yang, Shu and Wen, Junhao and Cui, Yuhan and Moore, Jason H and Saykin, Andrew J and others},
+  journal={Medical Image Analysis},
+  pages={103231},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
